@@ -5,6 +5,8 @@
  */
 package hm;
 
+import java.awt.BorderLayout;
+
 /**
  *
  * @author Labing I5
@@ -22,6 +24,7 @@ public class HM {
         System.out.println("hola mundo, mi nombre es Laura ");
         System.out.println("hola mundo, mi nombre es Laura ");
         System.out.println("hola mundo, mi nombre es Laura ");
+        System.out.println("Nicolas estuvo aqui .l.");
         
     }
     
